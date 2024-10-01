@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+<x-layout>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Page</title>
-</head>
+    <x-slot:heading>
+        Contact Page
+    </x-slot:heading>
 
-<body>
-    <h1>Welcome to the Contact Page!!gbdvzfdzgb!!!</h1>
-</body>
-
-</html><?php
+    <h1>Hello, from the Contact Page!</h1>
+</x-layout>
